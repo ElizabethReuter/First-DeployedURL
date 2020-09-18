@@ -13,6 +13,7 @@ h1{
     left: 80px;
     background-color: coral;
     color: royalblue;
+    padding: 80px;
 }
 .box2{
     position: absolute;
@@ -20,6 +21,7 @@ h1{
     right: 200px;
     background-color: skyblue;
     color: hotpink;
+    padding: 130px;
 }
 
 
